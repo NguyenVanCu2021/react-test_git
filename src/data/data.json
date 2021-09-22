@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "Công nhân gặp khó khi tiêm vaccine mũi 2",
+        "description": "TP HCMNhiều công nhân làm việc tại các khu công nghiệp tiêm vaccine Covid-19 mũi một ở nhà máy hồi tháng 6 gặp khó khăn khi tiêm mũi 2 ở địa phương.",
+        "content": "Đăng ký trở lại nhà máy sản xuất vào ngày 18/9 nhưng hai tuần qua, chị Trần Thị Thu Thụy, 41 tuổi, công nhân Công ty TNHH Nidec Việt Nam (Khu công nghệ cao, TP Thủ Đức) chưa được tiêm vaccine mũi 2 tại nơi sinh sống. Chị Thụy tiêm mũi một vaccine AstraZeneca vào ngày 22/6 tại Khu công nghệ cao đến nay đã quá 12 tuần theo khuyến cáo của ngành y tế.",
+        "image": "https://i1-vnexpress.vnecdn.net/2021/09/18/1Vaccine2-1-5945-1631938571.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=ztbkwxsqigt0ZAQxqYneZA"
+    },
+
+    {
+        "id": 2,
+        "title": "Nhà máy ở quận 7, Củ Chi sản xuất theo phương thức ‘4 xanh’",
+        "description": "TP HCMNhà máy ở các khu công nghiệp quận 7, Củ Chi tổ chức sản xuất theo phương thức “4 xanh”, tức bảo đảm phòng dịch cho lao động, nơi ở, làm việc và di chuyển.",
+        "content": "Thông tin từ Ban quản lý các khu chế xuất – công nghiệp TP HCM (Hepza) cho hay từ ngày 16 đến 30/9, dựa trên danh sách đăng ký của doanh nghiệp đơn vị này sẽ phối hợp cơ quan chức năng cấp thẻ xanh, thẻ vàng Covid cho lao động, làm cơ sở để các nhà máy bảo đảm an toàn khi sản xuất trở lại.",
+        "image": "https://i1-vnexpress.vnecdn.net/2021/09/17/Tai-cho-3-JPG-9726-1628740079-1785-1631851914.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=5AAL5FjqVUkBjq2gYfkRuA"
+    },
+
+    {
+        "id": 3,
+        "title": "Chuyên gia đề xuất TP HCM dừng xét nghiệm diện rộng",
+        "description": "Theo PGS. TS Đỗ Văn Dũng, thành phố không nên tiếp tục xét nghiệm diện rộng và truy vết vì rất tốn kém, chỉ tập trung lấy mẫu những người nguy cơ cao, triệu chứng.",
+        "content": "Ý kiến trên được PGS. TS Đỗ Văn Dũng (Trưởng khoa Y tế cộng đồng, Đại học Y Dược TP HCM) nói tại buổi gặp gỡ, lắng nghe chuyên gia góp ý về kế hoạch phòng chống dịch và phục hồi kinh tế sau 15/9 của lãnh đạo TP HCM sáng 17/9.",
+        "image": "https://i1-vnexpress.vnecdn.net/2021/09/17/QUYN4186-3269-1631868943.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=e_gZRvCgjWHkrzlM663WnA"
+    },
+
+    {
+        "id": 4,
+        "title": "Kế hoạch 'thần tốc' xét nghiệm ở TP HCM tới 30/9",
+        "description": "Các vùng đỏ, cam sẽ lấy mẫu xét nghiệm toàn bộ người dân 3 lần trong 7 ngày theo hộ gia đình với phương pháp test nhanh mẫu gộp hoặc RT-PCR mẫu gộp.",
+        "content": "Đăng ký trở lại nhà máy sản xuất vào ngày 18/9 nhưng hai tuần qua, chị Trần Thị Thu Thụy, 41 tuổi, công nhân Công ty TNHH Nidec Việt Nam (Khu công nghệ cao, TP Thủ Đức) chưa được tiêm vaccine mũi 2 tại nơi sinh sống. Chị Thụy tiêm mũi một vaccine AstraZeneca vào ngày 22/6 tại Khu công nghệ cao đến nay đã quá 12 tuần theo khuyến cáo của ngành y tế.",
+        "image": "https://i1-vnexpress.vnecdn.net/2021/09/17/QUYN8223-8528-1631843089.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=QHm_2ImuymhzEXZRaxaTdQ"
+    },
+
+    {
+        "id": 5,
+        "title": "Hà Nội thu hẹp quy mô xét nghiệm Covid-19",
+        "description": "Sở Y tế Hà Nội yêu cầu các quận, huyện, thị xã khoanh vùng, lấy mẫu xét nghiệm những người có triệu chứng nhiễm Covid-19 như ho, sốt, rát họng, mệt mỏi...",
+        "content": "Ngày 18/9, Sở Y tế Hà Nội gửi văn bản đến các đơn vị, nêu nội dung trên. Như vậy, thành phố đã thay đổi chiến lược, từ xét nghiệm diện rộng chuyển sang xét nghiệm theo diện nguy cơ. Ông Trương Quang Việt, Giám đốc Trung tâm kiểm soát bệnh tật Hà Nội (CDC), cho hay thời gian tới việc xét nghiệm trên địa bàn sẽ thay đổi theo hướng thu hẹp quy mô, lấy mẫu những người có yếu tố dịch tễ, khu phong tỏa, khu vực nguy cơ cao; không thực hiện xét nghiệm diện rộng như thời gian qua.",
+        "image": "https://i1-vnexpress.vnecdn.net/2021/09/18/HUY-5825-1631250132-2942-1631972478.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=aKxWb3uHTUF4ljTxA0NPtg"
+    },
+
+    {
+        "id": 6,
+        "title": "Hà Nội xét nghiệm toàn bộ dân cư",
+        "description": "Với việc xét nghiệm toàn bộ dân cư, TP Hà Nội đặt mục tiêu kiểm soát tốt dịch bệnh trước 15/9, hoàn thành tiêm vaccine Covid-19 cho người dân từ 18 tuổi trở lên.",
+        "content": "Trong công điện tối 6/9, Chủ tịch Hà Nội Chu Ngọc Anh nêu rõ để nhanh chóng kiểm soát tình hình, từ ngày 6 đến 12/9, thành phố xét nghiệm diện rộng 100% người dân trên địa bàn. Tại khu vực phong tỏa, khu cách ly, khu nguy cơ rất cao, ngành y tế lấy mẫu cho toàn bộ người dân 2-3 ngày/lần; khu nguy cơ cao lấy mẫu 5-7 ngày/lần; các khu vực khác toàn bộ người dân được lấy mẫu xét nghiệm ít nhất một lần.",
+        "image": "https://i1-vnexpress.vnecdn.net/2021/09/06/ho-gu-o-m-8756-1630939453.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=ziRvMvbC2E-gtmd9z13QmA"
+    },
+
+    {
+        "id": 7,
+        "title": "Hà Nội đề nghị hướng dẫn đi lại với người tiêm 2 mũi vaccine",
+        "description": "Thành phố kiến nghị Bộ Y tế phân bổ thêm vaccine và hướng dẫn cụ thể với những trường hợp đã hoàn thành việc tiêm hai mũi.",
+        "content": "Trao đổi với báo chí ngày 5/9, Bí thư Thành ủy Hà Nội Đinh Tiến Dũng cho hay thành phố đã kiến nghị Chính phủ xem xét giao quyền chủ động cho các địa phương quyết định thời gian cách ly đối với F1 để bảo đảm an toàn phòng, chống dịch.Thành phố cũng kiến nghị Bộ y tế phân bổ thêm vaccine để đến ngày 15/9 đạt tỷ lệ cao với nhóm trong độ tuổi được tiêm chủng; thường xuyên bổ sung cơ số thuốc, phác đồ điều trị, nhất là các thuốc mới, đặc hiệu; hướng dẫn cụ thể đối với những người đã tiêm đủ hai mũi vaccine thì được phép đi lại, tham gia các hoạt động lao động, sản xuất, tham gia công tác phòng, chống dịch như thế nào?.",
+        "image": "https://i1-vnexpress.vnecdn.net/2021/09/06/tie-m-vaccine-8986-1630893657.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=ANF33-SUSIeb629Me7zdbQ"
+    }
+]

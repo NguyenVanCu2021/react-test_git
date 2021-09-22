@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Viet Nam",
+        "tel": "8400987678",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Trung Quoc",
+        "tel": "9809345786",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Lao",
+        "tel": "8976899675",
+        "permission": 2
+    },
+    {
+        "id": 4,
+        "name": "Thai Lan",
+        "tel": "4356897654",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Campuchia",
+        "tel": "5674345675",
+        "permission": 3
+    },
+    {
+        "id": 6,
+        "name": "Hoa Ki",
+        "tel": "0989786547",
+        "permission": 2
+    }
+]
